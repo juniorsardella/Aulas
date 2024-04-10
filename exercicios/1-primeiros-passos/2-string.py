@@ -6,6 +6,7 @@ resumo = "Paloma é uma mulher de 46 anos que deseja mudar de profissão, por is
 # Imprima na tela apenas a segunda letra da variável
 
 
+
 # Imprima na tela a idade de Paloma (resposta esperada: "46")
 
 
